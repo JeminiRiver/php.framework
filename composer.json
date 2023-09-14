@@ -1,0 +1,21 @@
+{
+    "name": "jdubdev/php.framework",
+    "description": "Scalable Light Weight Restful Framework",
+    "type": "library",
+    "require": {
+        "josantonius/session": "^2.0"
+    },
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Jdubdev\\PhpFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jemini Willis",
+            "email": "jdubdev@pm.me"
+        }
+    ],
+    "minimum-stability": "stable"
+}
